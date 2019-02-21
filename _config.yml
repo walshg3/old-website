@@ -1,6 +1,0 @@
-name: Gregory Walsh
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
-plugins:
-  - jekyll-remote-theme
-remote_theme: pixeldroid/programming-pages
